@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package prjpersonaggio;
+import java.util.ArrayList;
 import java.util.List;
 /**
  *
@@ -15,7 +16,7 @@ public class Prjpersonaggio {
      */
     public static void main(String[] args) {
          List <Personaggio> lista;
-        
+        lista  = new ArrayList<>();
         // TODO code application logic here
     }
     
